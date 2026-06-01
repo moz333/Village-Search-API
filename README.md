@@ -34,12 +34,6 @@ A full-stack capstone project built using FastAPI, PostgreSQL, HTML, CSS, and Ja
 
 ## Setup
 
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run FastAPI
 
 ```bash
